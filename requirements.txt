@@ -1,0 +1,6 @@
+pytelegrambotapi
+sqlite3
+schedule~=0.6.0
+apiai~=1.2.3
+pytz~=2020.1
+timezonefinder~=4.3.0
